@@ -1,0 +1,8 @@
+name: mythril-uraic
+displayName: U. R. A. I. C.
+description: "Units\nRequire\nAmmo\nIn\nCampaign\n\nDoes not work well with Erekir units as they are not yet done and use copper for ammo."
+author: Mythril
+version: 0.1
+minGameVersion: 136
+hidden: true
+repo: Mythril382/U-R-A-I-C
